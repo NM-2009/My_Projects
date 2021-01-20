@@ -1,0 +1,42 @@
+html {
+  background-color: pink;
+    text-align:center;
+}
+
+
+.bookimg {
+  width:150px;
+  margin-bottom: 50;
+  border-radius: 50%;
+text-align: center;
+      
+}
+.line{
+   height: 6px;
+    background-color:  #DE5D83;
+    text-align:center;
+    width: 70px;
+   
+}
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top:10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+.link {
+    float: left;
+    color: #fff;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family:fantasy;
+    font-size: 20px
+}
+.link;hover {
+    background-color: pink;
+}
